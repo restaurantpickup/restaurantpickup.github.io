@@ -3277,7 +3277,7 @@ input, select, textarea {
 		@media screen and (orientation: portrait) {
 
 			#wrapper > .bg {
-				background-size: auto,								auto,														auto 175%;
+				background-size: auto,								auto,														auto 100%;
 			}
 
 		}
@@ -3465,7 +3465,7 @@ input, select, textarea {
 				}
 
 				#intro + #header {
-					margin-top: -14rem;
+					margin-top: -15rem;
 				}
 
 		}
@@ -3520,7 +3520,7 @@ input, select, textarea {
 		-ms-user-select: none;
 		user-select: none;
 		height: 20rem;
-		padding-bottom: 8rem;
+		padding-bottom: 22rem;
 		position: relative;
 		text-align: center;
 		z-index: 2;
